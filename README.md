@@ -1,5 +1,5 @@
 Learn the basics of front end technologies
 
-HTML
-CSS
+HTML <br>
+CSS <br>
 Javascript
