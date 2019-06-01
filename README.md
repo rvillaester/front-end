@@ -1,1 +1,5 @@
-# front-end
+Learn the basics of front end technologies
+
+HTML
+CSS
+Javascript
